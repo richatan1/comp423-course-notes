@@ -1,1 +1,1 @@
-# COMP423 Course Notes
+# COMP423-course-notes
