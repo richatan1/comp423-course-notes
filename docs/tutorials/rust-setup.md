@@ -66,8 +66,9 @@ Hello, COMP423!
 If you don't see this, go back to main.rs file and ensure the code is correct
 10. You can also use ```cargo run``` from the hello subdirectory to compile and run the program in 1 step  
 
-Explanation: "build vs run"
-while ```cargo build``` only compiles the project but doesn't actually run it (you have to do it manually as seen above), ```cargo run``` does both
+!!! info "Run vs Build"
+    ```run``` compiles and executes the program immediately, while ```build``` compiles but doesn't execute the program. Instead, a binary executable file is created to be executed independently.
+
 
 **### When finished with the project, go back using ```cd ..``` and use ```git add .``` & ```git commit -m ""``` to log your files using Git**
 
